@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Orderhere</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menupg">Menupg</string>
+    <string name="title_activity_ordpg">Ordpg</string>
+    <string name="title_activity_paypg">Paypg</string>
+    <string name="welcome_to_our_soup_world_">Welcome to our soup world.</string>
+    <string name="tableno">TableNo</string>
+    <string name="_2">2</string>
+    <string name="payment">Payment</string>
+    <string name="_5">5</string>
+    <string name="_1">1</string>
+    <string name="chicken_soup">Chicken Soup</string>
+    <string name="non_veg_soups">Non Veg Soups</string>
+    <string name="creamy_chicken_soup_158">Creamy Chicken Soup:158</string>
+    <string name="mutton_soup_190">Mutton Soup:190</string>
+    <string name="corn_chicken_stock_145">Corn Chicken Stock:145</string>
+
+</resources>
